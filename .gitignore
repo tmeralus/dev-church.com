@@ -17,6 +17,8 @@
 /wp-*.php
 /xmlrpc.php
 
+
+progress.md
 # Configuration
 wp-config.php
 
